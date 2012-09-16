@@ -72,6 +72,16 @@
   margin-bottom: 10px;
 }
 
+.blog-post h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.blog-post h4 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
 .blog-post hr {
   margin-left: -20px;
   margin-right: -20px;
