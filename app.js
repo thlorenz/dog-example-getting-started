@@ -28,6 +28,7 @@ function wrapnServe (res, html) {
   , '<html>'
   , '<head>'
   , '   <title>My Blog</title>'
+  , '   <meta charset="UTF-8">'
   , '   <link rel="stylesheet" href="/styles/blog.css" type="text/css" media="screen" charset="utf-8" />'
   , '</head>'
   , '<body>'
